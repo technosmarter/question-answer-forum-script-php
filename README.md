@@ -1,7 +1,7 @@
 <div style="font-family:Arial, sans-serif; line-height:1.8; color:#222;">
 
 <h1 style="font-size:34px; font-weight:700; margin-bottom:10px;">
-🚀 Complete Q&A Question Answer Community System in PHP
+Question & Answer (Q&A) Community Forum System in PHP MySQL –Discussion & Knowledge Base Script
 </h1>
 
 <p style="font-size:16px;">
